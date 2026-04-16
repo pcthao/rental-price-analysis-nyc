@@ -1,4 +1,24 @@
-# rental-price-analysis-nyc
+# Rental Price Analysis In NYC
 
-### What Drives Rental Prices in NYC? 
-This project analyzes Airbnb listings in New York City to identify the key drivers of rental pricing. The goal is to understand how structural features (e.g., location, room type) and behavioral signals (e.g., reviews, availability) influence price.
+## **Overview**
+This project analyzes rental listings in New York City to identify the key factors that drive pricing and understand how listing characteristics influence market behavior. The goal is to distinguish between structural factors (e.g., location, room type) and behavioral signals (e.g., reviews, availability) to better understand how pricing decisions are formed.
+
+
+## **Key Questions**
+- What features are strongest drivers of rental prices in NYC
+- How do structural factors (location, room type) compared to behavior signals (reviews, availability) in determining price?
+- Are there meaningful differences in pricing patterns across boroughs or listing types?
+- What insights can inform pricing strategies for hosts or platforms? 
+
+## **Methodology**
+- Data preparation
+- Exploratory data analysis
+- Feature Analysis
+- Modeling
+- Interpretation
+  
+## **Results**
+- Location and room type are the dominant drivers of price, with Manhanttan and entire-home listings commanding the highest prices
+- Behavioral signals such as number of reivews and availability have a weaker but still measurable influence, suggesting the play a secondary role in pricing
+- Pricing patterns vary significantly across boroughs, indicating that market segmentation is critical for accurate pricing strategies
+- Model results highligh that structural factors outweighs behaviorial ones, suggesting that pricing tools should prioritize location-based features 
