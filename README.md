@@ -13,8 +13,9 @@ This project analyzes rental listings in New York City to identify the key facto
 - Data preparation
 - Exploratory data analysis
 - Feature Analysis
-- Modeling
-- Interpretation
+- Predictice Modeling (Random Forest)
+- Simulated A/B testing Framework
+- Result Interpretation
   
 ## **Results**
 - Location and room type are the dominant drivers of price, with Manhattan and entire-home listings commanding the highest prices
