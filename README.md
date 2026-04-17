@@ -1,8 +1,7 @@
-# Rental Price Analysis In NYC
+# Rental Price Analysis In NYC & Pricing Experiement
 
 ## **Overview**
-This project analyzes rental listings in New York City to identify the key factors that drive pricing and understand how listing characteristics influence market behavior. The goal is to distinguish between structural factors (e.g., location, room type) and behavioral signals (e.g., reviews, availability) to better understand how pricing decisions are formed.
-
+This project analyzes rental listings in New York City to identify the key factors that drive pricing and understand how listing characteristics influence market behavior. Using a dataset of ~48,000 listings, I combine exploratory analysis, machine learning, and a simulated A/B testing framework to assess whether targeted price reductions can improve listing performance. 
 
 ## **Key Questions**
 - What features are strongest drivers of rental prices in NYC
